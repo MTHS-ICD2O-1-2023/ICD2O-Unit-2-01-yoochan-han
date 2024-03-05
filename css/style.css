@@ -1,4 +1,15 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Yoochan Han
+* Created on: Mar 2024
 * This file contains the CSS for index.html
 */
+body {
+  background-color: aqua;
+  color: black;
+}
+.myimg {
+  height: 512px;
+  width: 512px;
+}
+p {
+  font-size: large;
+}
